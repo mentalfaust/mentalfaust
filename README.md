@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Maks
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Maksym
+- 🌱 I’m currently learning c++
 
 <!---
 mentalfaust/mentalfaust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
